@@ -1,2 +1,2 @@
-# Calculadora-Vue
- Calculadora Projeto de criação de uma calculadora em vue.js que foi desenvolvida na aula de Web II
+# Calculadora em Vue.js
+Projeto desenvolvido durantes as aulas de Web II
